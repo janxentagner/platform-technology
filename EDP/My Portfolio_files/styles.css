@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: brown;
+    background-size: cover;
+    background-blend-mode: black;
+}
+.container {
+    font-family: 'broadway';
+    color:red;
+    text-align:center;
+    font-size: 60px;
+    background-color: skyblue;
+    margin-top: 4%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border: 1px solid ivory;
+   
+}
+.zero h2{
+    color: orange;
+    padding: 15px;
+    margin-top: 2%; 
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-bottom: 2%;
+    font-size: 50px;
+    width: 400;
+    height: 70px;
+    text-align: center;
+    font-family: 'forte';
+}
+.container1 {
+    margin-top: 2%;
+    margin-left: 1%;
+    margin-right: 53.8%;
+    margin-bottom: 1.8%;
+    border: 1px solid ivory;
+
+}
+.container2 h2 a{
+    padding: 8px;
+    margin-right: 1%;
+    margin-top: 2%;
+    margin-left: 1%;
+    color: orange;
+    border: 1px solid red;
+    background-color: ivory;
+    text-align: left;
+
+}
+.container2 h2 a:hover{
+    color: red;
+
+}
+.container3 section article{
+    background-color: pink;
+    height: 238px;
+    margin-top: 2%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    border: 1px solid red;
+    font-family: 'arial';
+
+}
+.container2{
+    text-align: right;
+    margin-top: 1%;
+
+}
+.container3 h3{
+    color: brown;
+    padding: 10px;
+
+}
+.container section article{
+    float: right;
+}
