@@ -1,0 +1,29 @@
+ body{
+        background-color: brown;
+        background-size: cover;
+
+}
+.container h1{
+        color: red;
+        font-family: 'broadway';
+        text-align: center;
+        font-size: 120px;
+        background-color: skyblue;
+        margin-top: 5%;
+        margin-left: 1%;
+        margin-right: 1%;
+        border: 1px solid ivory;
+}
+.cont h2{
+        color: orange;
+        text-align: center;
+        font-family: 'elephant';
+        font-size: 50px;
+        margin-top: 2%; 
+        margin-bottom: 2%;
+
+}
+.cont2{
+        text-align: center;
+        
+}
